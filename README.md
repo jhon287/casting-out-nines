@@ -1,9 +1,9 @@
 # Casting Out Nines
 
-Wikipedia: [https://en.wikipedia.org/wiki/Casting_out_nines](Casting out nines)
+Wikipedia: [Casting out nines](https://en.wikipedia.org/wiki/Casting_out_nines)
 
 ```shell
-> python3.12 main.py  
+> python3 main.py  
 Number 1   : 17 (8)
 Number 2   : 35 (8)
 Operator   : *
